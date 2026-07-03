@@ -4,6 +4,9 @@ description: Commissioned FullStack Webapp
 date: 2026-06-23 11:33:00 +0800
 categories: [Projects, ASP.NET]
 tags: [project, webapp, api, asp.net]
+image:
+  path: assets/img/post/Digicare/login.png
+  alt: DigiCare Landing Page
 ---
 
 > This project is still currently `under development` and may contain outdated information.
@@ -14,6 +17,8 @@ tags: [project, webapp, api, asp.net]
 
 ## Overview
 The webapp was commissioned for a thesis proposal and intended to digitize patient documentation. The platform facilitates secure, real-time collaboration on patient records with customizeable groups. By centralizing data, the system enables seamless communication between student clinicians, instructors, and professors to grade submissions and ensure clinical records consistently adhere to institutional standards.
+
+![Desktop View](/assets/img/post/Digicare/landing_page.png){: .normal }
 
 ## Key Features
 
